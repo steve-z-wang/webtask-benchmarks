@@ -1,0 +1,5 @@
+# Dataset loading
+datasets>=2.14.0
+
+# webtask library (install from sibling directory)
+# cd ../webtask && pip install -e .
